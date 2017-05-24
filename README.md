@@ -1,3 +1,5 @@
+This is Laxmi's fork of the News Demo
+
 # Discovery Demo [![Build Status](https://travis-ci.org/watson-developer-cloud/discovery-nodejs.svg?branch=master)](https://travis-ci.org/watson-developer-cloud/discovery-nodejs)
 
 
